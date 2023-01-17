@@ -1,0 +1,49 @@
+.markdown-source-view, .markdown-preview-view {
+    max-width: 1100px;
+    margin: auto;
+    text-align: justify;
+    }
+
+.cm-header-2 {
+    color: cornflowerblue;
+}
+
+.cm-header-3 {
+    color: aqua;
+}
+
+.cm-strong {
+    color: gold;
+}
+
+.markdown-preview-view h2 {
+    color: cornflowerblue;
+}
+
+.markdown-preview-view h3 {
+    color: aqua;
+}
+
+.markdown-preview-view strong {
+    color: gold;
+}
+
+.internal-link {
+    text-decoration: none;
+}
+
+.external-link {
+    text-underline-position: unset;
+}
+
+.tag {
+    color: pink;
+}
+
+.cm-line {
+    line-height: 45px;
+}
+
+* {
+    unicode-bidi: plaintext;
+}
