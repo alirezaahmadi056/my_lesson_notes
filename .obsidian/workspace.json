@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c503842d066c1e",
+        "id": "4fbfe232dab8e8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d77b8627432c915c",
+            "id": "a7c45fcde715d27c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/09 - Advanced Staging.md",
+                "file": "Git/01 - Learning Git And Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/09 - Advanced Staging.md",
+                "file": "Git/01 - Learning Git And Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/09 - Advanced Staging.md",
+                "file": "Git/01 - Learning Git And Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/09 - Advanced Staging.md"
+                "file": "Git/01 - Learning Git And Github.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d77b8627432c915c",
+  "active": "a7c45fcde715d27c",
   "lastOpenFiles": [
-    "Git/07 - Git Commit.md",
-    "Git/08 - Git Alias.md",
+    "Git/12 - Git Reset.md",
+    "Git/11 - Git Commit Checkout.md",
+    "Git/10 - Git Diff.md",
     "Git/09 - Advanced Staging.md",
-    "Git/01 - Learning Git And Github.md",
-    "Ui Ux/03 - Scrum pattern.md",
+    "Git/08 - Git Alias.md",
+    "Git/07 - Git Commit.md",
     "Git/06 - Save File in Git.md",
     "Git/05 - Basic Git commands.md",
-    "Laravel/02 - Install Laravel.md",
-    "Laravel/01 - Learning Laravel.md",
+    "Git/01 - Learning Git And Github.md",
     "Git/04 - Install Git.md"
   ]
 }
