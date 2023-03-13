@@ -17,7 +17,7 @@ ext {
 }
 
 dependencies {
-		implementation"com.github.parse-community.Parse-SDK-Android:parse:$parseVersion"
+		implementation "com.github.parse-community.Parse-SDK-Android:parse:$parseVersion"
 }
 ```
 <br>

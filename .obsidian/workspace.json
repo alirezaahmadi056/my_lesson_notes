@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4fbfe232dab8e8c3",
+        "id": "5d61a2af223673f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c45fcde715d27c",
+            "id": "7177e0458ca9f8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/01 - Learning Git And Github.md",
+                "file": "Git/14 - Git Branch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7a6d35b5c752bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/15 - Git Remote.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/01 - Learning Git And Github.md",
+                "file": "Git/15 - Git Remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/01 - Learning Git And Github.md",
+                "file": "Git/15 - Git Remote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/01 - Learning Git And Github.md"
+                "file": "Git/15 - Git Remote.md"
               }
             }
           }
@@ -147,17 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7c45fcde715d27c",
+  "active": "c7a6d35b5c752bac",
   "lastOpenFiles": [
-    "Git/12 - Git Reset.md",
-    "Git/11 - Git Commit Checkout.md",
-    "Git/10 - Git Diff.md",
-    "Git/09 - Advanced Staging.md",
-    "Git/08 - Git Alias.md",
-    "Git/07 - Git Commit.md",
+    "Git/14 - Git Branch.md",
+    "Git/15 - Git Remote.md",
+    "Git/13 - Git Revert.md",
     "Git/06 - Save File in Git.md",
-    "Git/05 - Basic Git commands.md",
+    "Git/07 - Git Commit.md",
+    "Git/08 - Git Alias.md",
+    "Git/09 - Advanced Staging.md",
+    "Git/11 - Git Commit Checkout.md",
+    "Git/12 - Git Reset.md",
     "Git/01 - Learning Git And Github.md",
-    "Git/04 - Install Git.md"
+    "Git/10 - Git Diff.md"
   ]
 }
