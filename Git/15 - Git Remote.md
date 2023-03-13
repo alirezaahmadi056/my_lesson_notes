@@ -24,4 +24,4 @@
 #git_code git push -u origin master
 
 گرفتن اطلاعات از سرور : 
-#git_code git pull
+#git_code git pull 
